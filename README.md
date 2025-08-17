@@ -36,6 +36,5 @@ Sou desenvolvedora em formação, focada em Python e back-end. Gosto de aprender
 [![Gerador de Senhas](https://raw.githubusercontent.com/luddv/Gerador-de-senhas/main/demo.gif)](https://github.com/luddv/Gerador-de-senhas)  
 **Gerador de Senhas** – Projeto simples para gerar senhas seguras automaticamente.
 
-[![Outro Projeto](https://raw.githubusercontent.com/luddv/OutroProjeto/main/demo.gif)](https://github.com/luddv/OutroProjeto)  
-**Outro Projeto** – Descrição curta do projeto.
+
 
