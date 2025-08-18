@@ -8,8 +8,9 @@ Sou desenvolvedora em formação, focada em Python e back-end. Gosto de aprender
 
 ### 📬 Contatos
 - [GitHub](https://github.com/luddv)  
-- [LinkedIn](www.linkedin.com/in/ludymillaalmeida)  
-- [E-mail](almeidaludymilla6@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/ludymillaalmeida)  
+- [E-mail](mailto:almeidaludymilla6@gmail.com)
+
 
 ---
 
