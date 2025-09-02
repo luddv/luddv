@@ -31,7 +31,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-Sou a <b>Ludymilla Evelin</b>, estudante de <b>Análise e Desenvolvimento de Sistemas</b> na Universidade Cruzeiro do Sul UDF.<br><br>
+Sou a <b>Ludymilla Almeida</b>, estudante de <b>Análise e Desenvolvimento de Sistemas</b> na Universidade Cruzeiro do Sul UDF.<br><br>
 - 🌱 Atualmente estudando <b>Python, Banco de Dados (MySQL/SQL), Git e Power BI</b>.<br>
 - 📚 Aprendendo os fundamentos de <b>HTML e CSS</b> para desenvolver bases em front-end.<br>
 - 🚀 Focada na área de <b>Desenvolvedora Back-End</b>.<br>
