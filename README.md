@@ -11,7 +11,7 @@
   <a href="https://github.com/luddv" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github portfolio"  />
   </a>
-  <a href="mailto:seu-email@gmail.com" target="_blank">
+  <a href="mailto:almeidaludymilla6@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
